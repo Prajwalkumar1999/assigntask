@@ -1,0 +1,33 @@
+.tit {
+    background-color: lightgrey;
+    height: 250px;
+    
+}
+body{
+    min-height: 100vh;
+}
+#title {
+    display: flex;
+}
+.card {
+    padding-top: 10px;
+    width: 25rem;
+    height: 250px;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.footer {
+    width: 100vw;
+    height: 5rem;
+    padding-top: 10px;
+    margin-left: 10px;
+    top: 100%;
+}
+.footer p{
+    font-size: 1.6rem;
+
+}
+.lrm {
+    margin-left: 150px;
+}
